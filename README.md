@@ -1,2 +1,2 @@
 # Gomoku
-2-player game (known as "Gomoku" in Japan) involves placing Go-pieces onto a grid, until one player places five pieces in an unbroken stright line.
+Two players alternate in placing a stone of their color on an empty grid cell. The winner is the first player to get an unbroken row of five stones horizontally, vertically, or diagonally.
